@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\wer\WinCalc\bin\Debug\net11.0-windows\WinCalc.exe
+C:\Users\admin\Desktop\wer\WinCalc\bin\Debug\net11.0-windows\WinCalc.deps.json
+C:\Users\admin\Desktop\wer\WinCalc\bin\Debug\net11.0-windows\WinCalc.runtimeconfig.json
+C:\Users\admin\Desktop\wer\WinCalc\bin\Debug\net11.0-windows\WinCalc.runtimeconfig.dev.json
+C:\Users\admin\Desktop\wer\WinCalc\bin\Debug\net11.0-windows\WinCalc.dll
+C:\Users\admin\Desktop\wer\WinCalc\bin\Debug\net11.0-windows\WinCalc.pdb
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.AssemblyInfo.cs
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.dll
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\refint\WinCalc.dll
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.pdb
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.genruntimeconfig.cache
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\ref\WinCalc.dll
+C:\Users\admin\Desktop\wer\WinCalc\obj\Debug\net11.0-windows\WinCalc.csproj.Up2Date
